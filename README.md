@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Invincible</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Invincible</h1>
 
-- 🌱 I’m currently learning **Java**
+
+
 
 <p align="left">
 </p>
